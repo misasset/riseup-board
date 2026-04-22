@@ -2,7 +2,7 @@
 
 > *How we show up for each other — all year.*
 
-**Access:** Password-protected. Contact Tessa Sim for the access code.
+**Access:** Password-protected: asia2026
 
 ---
 
