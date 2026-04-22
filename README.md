@@ -21,9 +21,9 @@ The ask is light: show up when you can, post when something is worth sharing, fi
 | Section | What goes here |
 |---|---|
 | 🌱 **Grow — Professional** | Career, skills, commercial challenges. What you're actively working on, where you're stuck, what's shifted. Template: what I'm working on / what I've tried / what I need. |
-| 🌸 **Grow — Personal** | Mindset, habits, life design, reading — anything outside work. Same template. Professional and personal are kept in separate streams so neither drowns the other. |
+| 🌸 **Grow — Personal** | Mindset, habits, life design, reading, anything outside work. Same template. Professional and personal are kept in separate streams so neither drowns the other. |
 | ✨ **Share** | Wins, milestones, announcements. Promotions, deals, speaking slots, side projects, personal news. No win is too small. Resist the instinct to understate. |
-| 💬 **Ask** | Real questions with real context. The most valuable section long-term — it becomes a searchable archive of genuine advice from women who have been in the room. Post even if it feels dumb. |
+| 💬 **Ask** | Real questions with real context. The most valuable section long-term, it becomes a searchable archive of genuine advice from women who have been in the room. Post even if it feels dumb. |
 | 🔍 **Discover** | Books, podcasts, tools, events, resources worth passing on. Name what it is, say why you're sharing it, say who it's most useful for. |
 
 ---
@@ -39,13 +39,11 @@ Grow is designed for development that takes time. Not a single post, but a threa
 
 ---
 
-## Three rules. That's all.
+## Two rules. That's all.
 
 1. **Use the post form, not a blank text box.** Each section has structured fields. If you can't fill them in, the post needs more thought first. Structure is what makes the board searchable six months from now.
 
 2. **Professional and Personal Grow posts are separate streams.** If something sits in both, pick the dominant one.
-
-3. **What goes on the board stays on the board.** Closed, password-protected, not indexed publicly. No screenshotting mentor insights or personal posts without asking first.
 
 ---
 
@@ -59,13 +57,13 @@ Your posts are highlighted in gold across the feed and sent as WhatsApp notifica
 
 ### Speakers
 
-Speakers have the same access as mentors — they can read everything, post session notes and insights, comment on cohort posts, and answer open Asks. Speaker posts are tagged in teal and surface in the Session Notes section alongside their talk.
+Speakers have the same access as mentors: they can read everything, post session notes and insights, comment on cohort posts, and answer open Asks. Speaker posts are tagged in teal and surface in the Session Notes section alongside their talk.
 
-One exception applies: a small number of speakers may have restricted access at the board admin's discretion. This is managed quietly and without announcement.
+One exception applies: a small number of speakers may have restricted access at the board admin's discretion. 
 
 ---
 
-## Staying accountable — simply
+## Staying accountable, simply
 
 Two things, done consistently, are worth more than ten things abandoned by May.
 
@@ -73,21 +71,21 @@ Two things, done consistently, are worth more than ten things abandoned by May.
 
 At the start of each quarter, fill in your card: three professional goals, one personal goal, one thing you're giving to the group, one thing you need. Public to all members. Takes ten minutes.
 
-Quarters run: Jan–Mar · Apr–Jun · Jul–Sep · Oct–Dec. Cards are due in the first two weeks.
+Quarters run: Jan–Mar · Apr–Jun · Jul–Sep · Oct–Dec. Cards can be done in the first two weeks.
 
 ### 2. Monthly roundtable — first Thursday, every month
 
 60 minutes. Virtual. Open to everyone on the board. Hosted by a rotating cohort member.
 
-Format: 5-minute board highlights → one open Ask discussed as a group → open floor. Prepare in 20 minutes. Show up consistently.
+Format: 5-minute board highlights → one open Ask discussed as a group → open floor. Prepare in 20 minutes. Show up, when you can, consistently.
 
 **Rotating host:** Assigned three weeks before each roundtable. You have one week to confirm or swap with a willing member. No response = assignment holds. Every cohort member hosts approximately once a year.
 
-Host's job: set the Zoom link · send one WhatsApp reminder 48 hours before · open with the board highlight reel · close with one Ask for group discussion. 30 minutes of prep, maximum.
+Host's job: set the Zoom link · send one WhatsApp reminder 48 hours before · open with the board highlight reel · close with one Grow and one Ask for group discussion. 30 minutes of prep, maximum.
 
-### 3. Country clusters — once a quarter, in person
+### 3. Country clusters can meet once a quarter, in person
 
-If you share a city with other cohort members, you have a built-in cluster. The board flags who's in your city each quarter and prompts a gathering. No agenda required — just proximity and time.
+If you share a city with other cohort members, you have a built-in cluster. The board flags who's in your city each quarter and prompts a gathering. No agenda required, just proximity and time.
 
 ---
 
